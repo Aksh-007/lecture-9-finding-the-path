@@ -1,0 +1,4 @@
+hows the diff algorithm works ??
+
+ why do i need state varibale??
+ => 

@@ -1,0 +1,27 @@
+{
+  "name": "lecture-2-ignite-the-app",
+  "version": "1.0.0",
+  "description": "creating a react app from scratch ",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest "
+  },
+  "author": "Akshay Barapatre ",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "constants-browserify": "^1.0.0",
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "formik": "^2.2.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.9.0"
+  }
+}
